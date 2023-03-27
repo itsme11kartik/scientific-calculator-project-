@@ -12,6 +12,7 @@ def clear():
     global expression
     expression = ""
     equation.set("0")
+   #scientific calculator
 
 # Create a function to handle the "equal" button click
 def calculate():
