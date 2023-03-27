@@ -43,6 +43,7 @@ def sin():
     equation.set(result)
     expression = ""
 #Scientific Calculator
+#code
 # Create a function to handle the "cos" button click
 def cos():
     global expression
