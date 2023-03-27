@@ -27,6 +27,7 @@ def sqrt():
     result = str(math.sqrt(float(expression)))
     equation.set(result)
     expression = ""
+   #code
 
 # Create a function to handle the "log" button click
 def log():
