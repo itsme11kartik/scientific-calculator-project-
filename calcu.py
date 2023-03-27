@@ -20,7 +20,7 @@ def calculate():
     result = str(eval(expression))
     equation.set(result)
     expression = ""
-
+#calculator
 # Create a function to handle the "square root" button click
 def sqrt():
     global expression
