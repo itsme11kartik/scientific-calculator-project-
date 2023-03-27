@@ -58,7 +58,7 @@ def tan():
 # Initialize the GUI
 root = tk.Tk()
 root.title("Scientific Calculator")
-
+#Scientific Calculator
 # Create a variable for the equation to be displayed
 equation = tk.StringVar()
 expression = ""
