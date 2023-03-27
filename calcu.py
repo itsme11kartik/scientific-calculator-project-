@@ -40,7 +40,7 @@ def sin():
     result = str(math.sin(float(expression)))
     equation.set(result)
     expression = ""
-
+#Scientific Calculator
 # Create a function to handle the "cos" button click
 def cos():
     global expression
